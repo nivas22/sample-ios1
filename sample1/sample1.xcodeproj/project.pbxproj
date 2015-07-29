@@ -411,6 +411,7 @@
 				9F6CD97B1B686C4E0059EB2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9F6CD97C1B686C4E0059EB2D /* Build configuration list for PBXNativeTarget "sample1Tests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				9F6CD97E1B686C4E0059EB2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
